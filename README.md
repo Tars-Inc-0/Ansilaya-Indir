@@ -8,3 +8,4 @@ Merhaba, Ansilaya Artık GitHub'da yayında ve indirlebilir. Aşağıdan indirme
 # https://ansilaya.my.canva.site/ai - Ansilaya'nın yapay zekası Ansilaya AI Basic'e bu siteden erişebilirsiniz.
 # https://character.ai/chat/SwSOu69wgRGrgM7o5j3xoi9wogSF5QqiC2uUhuK6B28 - Ansilaya AI Basic ile konuşabileceğiniz web sitesi.
 # https://www.youtube.com/@Ansilaya - Ansilaya'nın orijinal YouTube kanalıdır.
+# Linkler tamamen güvenli ve orijinal linklerdir. Başka bize ait olan bir link gördüyseniz o büyük ihtimal sahte linkdir. Orijinal ve Tars Inc. tarafından yapılan Github Ansilaya bağlantılarının paylaşıldığı link burasıdır.
